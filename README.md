@@ -1,1 +1,3 @@
-# Le jeu de la bataille navale, version Programmation Objet Orientée
+# Le jeu de la bataille navale, version Programmation Orientée Objet
+
+
